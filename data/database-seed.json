@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "111",
+      "uuid": "7215c6a9-dda6-4a6f-99fe-3487366f0362",
+      "firstName": "Donavon",
+      "lastName": "Doyle",
+      "username": "Virgie15",
+      "password": "3_IOvkcTrecxSmh",
+      "email": "Hans_Schowalter@hotmail.com",
+      "phoneNumber": "0",
+      "avatar": "https://avatars.dicebear.com/api/human/111.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 177861,
+      "createdAt": "2022-02-10T01:46:29.260Z",
+      "modifiedAt": "2023-01-22T00:11:41.126Z"
+    },
+    {
+      "id": "111",
+      "uuid": "e6dd3f00-bfa6-41fa-9982-dbde0cfb4716",
+      "firstName": "Angela",
+      "lastName": "Cole",
+      "username": "Noemi.Bayer",
+      "password": "TEehzcr6RR8juqT",
+      "email": "Dolly.Bins22@hotmail.com",
+      "phoneNumber": "0",
+      "avatar": "https://avatars.dicebear.com/api/human/111.svg",
+      "defaultPrivacyLevel": "public",
+      "balance": 13922,
+      "createdAt": "2023-01-06T20:51:24.031Z",
+      "modifiedAt": "2023-01-22T17:24:31.054Z"
+    },
+    {
+      "id": "111",
+      "uuid": "4d127860-5a03-4015-9416-86bb9c6fc7a8",
+      "firstName": "Fleta",
+      "lastName": "McKenzie",
+      "username": "Adan.Harber49",
+      "password": "qiWcRc9y9ylb3da",
+      "email": "Mary.Kunde22@yahoo.com",
+      "phoneNumber": "0",
+      "avatar": "https://avatars.dicebear.com/api/human/111.svg",
+      "defaultPrivacyLevel": "contacts",
+      "balance": 49736,
+      "createdAt": "2022-03-10T19:14:19.153Z",
+      "modifiedAt": "2023-01-22T05:50:50.594Z"
+    }
+  ]
+}
